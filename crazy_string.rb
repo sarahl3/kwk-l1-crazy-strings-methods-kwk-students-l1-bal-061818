@@ -1,6 +1,8 @@
 # write your method here
 
 def crazy_strings("Hello","friends")
-  "Hello".swapcase
+  "Hello".reverse
+  "Hello".upcase
+  "friends".swapcase
 
 end
