@@ -1,5 +1,6 @@
 # write your method here
 
-def crazy_strings(a,b)
+def crazy_strings("Hello","friends")
+  
 
 end
